@@ -88,8 +88,4 @@ Or run the app configuration in Android Studio.
 ## Limitations
 In-memory only • No dark theme • No persistence • No tests • Hard-coded strings/colors.
 
-## License
-Add a LICENSE file (MIT/Apache 2.0). Currently unlicensed placeholder.
 
----
-Concise doc: expand in `/docs` only when complexity increases.
